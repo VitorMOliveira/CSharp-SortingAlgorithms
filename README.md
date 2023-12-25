@@ -13,7 +13,7 @@ The application contains the following algorithms:
 In the APP folder you can execute the SortingAlgorithms.exe file to test the application (You **need** to have Visual Studio 2022 installed or the DLLs for the .exe to run).
 
 ### Demo video:
-[![](https://img.youtube.com/vi/6VxMNvA5WJw/0.jpg)](https://www.youtube.com/watch?v=6VxMNvA5WJw "C# WPF Sorting Algorithms Demo")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/6VxMNvA5WJw/0.jpg)](https://www.youtube.com/watch?v=6VxMNvA5WJw "C# WPF Sorting Algorithms Demo")
 
 A project inspired by [https://panthema.net/2013/sound-of-sorting/].
 
